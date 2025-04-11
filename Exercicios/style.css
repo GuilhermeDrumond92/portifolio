@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: #54EB42;
+    color: white;
+}
+h1{
+    color: #42EB6C;
+    font-weight: bold;
+}
+span{
+    color:#22D4FD;
+    border: 1px solid #22D4FD;
+    padding: 10px;
+}
+h2{
+    color: aqua;
+}
+footer{
+    background: purple;
+    color: greenyellow;
+}
+
+.principal{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
